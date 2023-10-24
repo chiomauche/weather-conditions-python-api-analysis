@@ -4,19 +4,19 @@ I applied what I've learned about Python APIs to answer questions on countries, 
 
 # Data used
 
-output_data/cities.csv
+* output_data/cities.csv
 
 ![Alt text](<Screenshot 2023-10-21 030924.png>)
 
 # VacationPy
 
-Using the information provided in the output_data/cities.csv file, I created a city map that shows a point on the map for each city listed in the city_data_df DataFrame.
+* Using the information provided in the output_data/cities.csv file, I created a city map that shows a point on the map for each city listed in the city_data_df DataFrame.
 
 ![Alt text](<Screenshot 2023-10-21 031744.png>)
 
 # WeatherPy
 
-I created plots to showcase the relationship between Weather Variables and Latitude
+* I created plots to showcase the relationship between Weather Variables and Latitude
 
 # Created Scatter Plots Requested
 * Latitude Vs. Temperature
